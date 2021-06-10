@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **on projects related to Frontend Web Development **
 
-- 🌱 I’m currently learning **Data Structures and Algorithms and Reactjs**
+- 🌱 I’m currently learning **Data Structures and Algorithms **
 
 - 👯 I’m looking to collaborate on **on Open Source Organization to build models on Front end developement **
 
@@ -73,8 +73,8 @@ Here are some ideas to get you started:
 
 --------------------------------------------------------------------
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuskaanSharma30&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
-![Muskaan's github stats](https://github-readme-stats.vercel.app/api?username=MuskaanSharma30&show_icons=true&theme=nightowl&hide_border=true&hide=prs,issues)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gauri010802&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
+![Muskaan's github stats](https://github-readme-stats.vercel.app/api?username=gauri01080230&show_icons=true&theme=nightowl&hide_border=true&hide=prs,issues)
 
 
 
