@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Gauri Singh</h1>
-<h3 align="center" style={{color:"pink"}}>A Front end developer hailing from Kanpur UP.</h3>
+<h3 align="center" style={{color:"pink"}}>A Computer Science Student From SRMIST.</h3>
 
 ![](https://img.shields.io/badge/MOOD-FOCUSED-informational?style=flat&logo=&logoColor=white&color=2bbc8a)
 
